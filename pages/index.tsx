@@ -22,7 +22,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Bookstore Home</title>
+        <title>TJUT STORE Home</title>
         <meta name='description' content='TJUT STORE Home Page' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
